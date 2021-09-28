@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fjElAS4/VTb7s9LGwyTns6LUr0UwkGL6rc9yri+47xPcnXu6tWrs3ZbKVe7OEesnZHlG2y5NMPbnhZnaPOajXA==",
+  "dgSpecHash": "zZmHPj98K4/ltdq1pJydu+4Jevdqi251+6jCWEiEOH2ArouFsNbvubDBBSp/sof+MUsvAVNISo1A+07nVpMU2Q==",
   "success": true,
-  "projectFilePath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Source\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }
